@@ -30,7 +30,6 @@ I’m currently building foundational knowledge in:
 ---
 
 ## Current Focus
-- Completing ISC2 CC
 - Building foundational cybersecurity knowledge
 - Documenting my learning journey publicly
 - Preparing for beginner labs in GRC, IAM, Cloud Security & AI Security.
