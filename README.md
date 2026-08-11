@@ -23,9 +23,9 @@ I’m currently building foundational knowledge in:
 |---|---|
 | Security Principles | Completed |
 | BCDR & Incident Response | Completed |
-| Access Control | In Progress... |
-| Network Security | Pending |
-| Security Operations | Pending |
+| Access Control | Completed |
+| Network Security | Completed |
+| Security Operations | Completed |
 
 ---
 
